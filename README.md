@@ -115,4 +115,4 @@ def sarsa(env,
 ![output](op5.png)
 
 ## RESULT:
-Thus the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
+Thus, the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
